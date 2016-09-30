@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 11:29
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 12:39
  restricted system commands enabled.
 **IntroAflevering.tex
 (./IntroAflevering.tex
@@ -6,8 +6,8 @@ LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2016/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(c:/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -188,6 +188,122 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(c:/texlive/2016/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks21
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count102
+
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count103
+
+(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count104
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count105
+\c@Item=\count106
+\c@Hfootnote=\count107
+)
+
+Package hyperref Message: Driver (autodetected): hluatex.
+
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2016/06/24 v6.83q Hyperref driver for luaTeX
+\Fld@listcount=\count108
+\c@bookmark@seq@number=\count109
+
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
+)
+\Hy@SectionHShift=\skip46
+)
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -201,10 +317,6 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
-)
 (c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
@@ -218,85 +330,66 @@ Package graphics Info: Driver file: luatex.def on input line 99.
 
 (c:/texlive/2016/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2016/08/17 v0.01g Graphics/Color for luaTeX
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count100
+\Gread@gobject=\count110
 ))
-\Gin@req@height=\dimen113
-\Gin@req@width=\dimen114
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
 )
 (./IntroAflevering.aux)
 \openout1 = IntroAflevering.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring OFF on input line 11.
+
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count111
+)
+LaTeX Info: Redefining \ref on input line 11.
+LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \nameref on input line 11.
+
+(./IntroAflevering.out) (./IntroAflevering.out)
+\@outlinefile=\write3
+
+\openout3 = IntroAflevering.out
 
 (c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count101
-\scratchdimen=\dimen115
-\scratchbox=\box28
-\nofMPsegments=\count102
-\nofMParguments=\count103
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count104
-\MPscratchDim=\dimen116
-\MPnumerator=\count105
-\makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count112
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen120
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks24
 ) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX detected.
-))))
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/luatex-loader.sty
-Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
-
-(c:/texlive/2016/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua))
-\pdftexcmds@toks=\toks24
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
@@ -309,75 +402,119 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
 
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
 
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (251.38884pt too wide) in paragraph at lines 11--11
+Overfull \hbox (191.4918pt too wide) in paragraph at lines 13--13
  [][] 
  []
 
-
-LaTeX Warning: Reference `Antal sammenligninger for boblesortering.' on page 1 u
-ndefined on input line 21.
-
-<Nyhavn1.png, id=1, 505.89pt x 338.16338pt>
-File: Nyhavn1.png Graphic file (type png)
- <use Nyhavn1.png>
-Package luatex.def Info: Nyhavn1.png used on input line 25.
-(luatex.def)             Requested size: 252.94437pt x 169.08127pt.
- [1
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 16.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 21.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 38.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 38.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 42.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 42.
+[1
 
 {c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no æ (U+00E6) in font cmr9!
 Missing character: There is no æ (U+00E6) in font cmr10!
-Missing character: There is no æ (U+00E6) in font cmr12!
-Missing character: There is no å (U+00E5) in font cmr12!
-Missing character: There is no æ (U+00E6) in font cmr12!
-Missing character: There is no å (U+00E5) in font cmr12!
-Missing character: There is no æ (U+00E6) in font cmr12!
-Missing character: There is no ø (U+00F8) in font cmr12!
-Missing character: There is no å (U+00E5) in font cmr12!
-Missing character: There is no æ (U+00E6) in font cmr12!
-Missing character: There is no æ (U+00E6) in font cmr12!
+Missing character: There is no å (U+00E5) in font cmr10!
+Missing character: There is no æ (U+00E6) in font cmr10!
+Missing character: There is no å (U+00E5) in font cmr10!
+Missing character: There is no æ (U+00E6) in font cmr10!
+Missing character: There is no ø (U+00F8) in font cmr10!
+Missing character: There is no ø (U+00F8) in font cmr10!
+Missing character: There is no å (U+00E5) in font cmr10!
+Missing character: There is no æ (U+00E6) in font cmr10!
+Missing character: There is no æ (U+00E6) in font cmr10!
+]
+<Nyhavn1.png, id=48, 505.89pt x 338.16338pt>
+File: Nyhavn1.png Graphic file (type png)
+ <use Nyhavn1.png>
+Package luatex.def Info: Nyhavn1.png used on input line 46.
+(luatex.def)             Requested size: 252.94437pt x 169.08127pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 49.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 60.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 67.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 67.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language append on input line 67.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language append on input line 67.
+[2
+Missing character: There is no æ (U+00E6) in font cmbx10!
 Missing character: There is no æ (U+00E6) in font cmbx12!
-] [2<./Nyhavn1.png>]
-(./IntroAflevering.aux)
-
-LaTeX Warning: There were undefined references.
-
+<./Nyhavn1.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
+ (./IntroAflevering.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
+Package rerunfilecheck Info: File `IntroAflevering.out' has not changed.
+(rerunfilecheck)             Checksum: CC1D5D925FDA264BA0746CBD9CB2A294;216.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
 )
 
 Here is how much of LuaTeX's memory you used:
- 3203 strings out of 495118
- 100000,128383 words of node,token memory allocated
- 764 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 57 glue, 1 kern, 41 glue_spec, 1 write nodes
-   avail lists: 1:1,2:16,3:72,4:4,5:61,6:995,7:317,8:35,9:76,10:3,11:143
- 6523 multiletter control sequences out of 65536+600000
- 63 fonts using 1835779 bytes
- 37i,8n,24p,501b,239s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 6944 strings out of 495118
+ 100000,221844 words of node,token memory allocated
+ 1084 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 102 glue, 1 kern, 42 glue_spec, 1 write nodes
+   avail lists: 2:20,3:189,4:5,5:74,6:1270,7:408,8:60,9:104,10:3,11:154
+ 10212 multiletter control sequences out of 65536+600000
+ 59 fonts using 1719975 bytes
+ 29i,8n,32p,512b,355s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texliv
 e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/
-texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2016/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb>
-Output written on IntroAflevering.pdf (2 pages, 4514157 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
+10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on IntroAflevering.pdf (2 pages, 4561795 bytes).
 
-PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+PDF statistics: 117 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 131072)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
