@@ -1,0 +1,262 @@
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 10:33
+ restricted system commands enabled.
+**IntroAflevering.tex
+(./IntroAflevering.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+(c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(c:/texlive/2016/texmf-dist/tex/generic/babel/luababel.def
+\l@dumylang=\language1
+\l@nohyphenation=\language2
+\l@german-x-2014-05-21=\language3
+\l@ngerman-x-2014-05-21=\language4
+\l@afrikaans=\language5
+\l@ancientgreek=\language6
+\l@ibycus=\language7
+\l@arabic=\language8
+\l@armenian=\language9
+\l@basque=\language10
+\l@bulgarian=\language11
+\l@catalan=\language12
+\l@pinyin=\language13
+\l@churchslavonic=\language14
+\l@coptic=\language15
+\l@croatian=\language16
+\l@czech=\language17
+\l@danish=\language18
+\l@dutch=\language19
+\l@ukenglish=\language20
+\l@usenglishmax=\language21
+\l@esperanto=\language22
+\l@estonian=\language23
+\l@ethiopic=\language24
+\l@farsi=\language25
+\l@finnish=\language26
+\l@french=\language27
+\l@friulan=\language28
+\l@galician=\language29
+\l@georgian=\language30
+\l@german=\language31
+\l@ngerman=\language32
+\l@swissgerman=\language33
+\l@monogreek=\language34
+\l@greek=\language35
+\l@hungarian=\language36
+\l@icelandic=\language37
+\l@assamese=\language38
+\l@bengali=\language39
+\l@gujarati=\language40
+\l@hindi=\language41
+\l@kannada=\language42
+\l@malayalam=\language43
+\l@marathi=\language44
+\l@oriya=\language45
+\l@panjabi=\language46
+\l@tamil=\language47
+\l@telugu=\language48
+\l@indonesian=\language49
+\l@interlingua=\language50
+\l@irish=\language51
+\l@italian=\language52
+\l@kurmanji=\language53
+\l@latin=\language54
+\l@classiclatin=\language55
+\l@liturgicallatin=\language56
+\l@latvian=\language57
+\l@lithuanian=\language58
+\l@mongolian=\language59
+\l@mongolianlmc=\language60
+\l@bokmal=\language61
+\l@nynorsk=\language62
+\l@occitan=\language63
+\l@piedmontese=\language64
+\l@polish=\language65
+\l@portuguese=\language66
+\l@romanian=\language67
+\l@romansh=\language68
+\l@russian=\language69
+\l@sanskrit=\language70
+\l@serbian=\language71
+\l@serbianc=\language72
+\l@slovak=\language73
+\l@slovenian=\language74
+\l@spanish=\language75
+\l@swedish=\language76
+\l@thai=\language77
+\l@turkish=\language78
+\l@turkmen=\language79
+\l@ukrainian=\language80
+\l@uppersorbian=\language81
+\l@welsh=\language82
+)
+(c:/texlive/2016/texmf-dist/tex/generic/babel-danish/danish.ldf
+Language: danish 2009/09/19 v1.3r Danish support from the babel system
+
+(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+
+(c:/texlive/2016/texmf-dist/tex/generic/babel/luababel.def))
+Package babel Info: Making " an active character on input line 82.
+
+(c:/texlive/2016/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-da.tex
+UTF-8 Danish hyphenation patterns
+(c:/texlive/2016/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-da.tex))))
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen104
+))
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(./IntroAflevering.aux)
+\openout1 = IntroAflevering.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
+ (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (251.38884pt too wide) in paragraph at lines 10--10
+ [][] 
+ []
+
+[1
+
+{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no æ (U+00E6) in font cmr10!
+Missing character: There is no æ (U+00E6) in font cmr12!
+Missing character: There is no å (U+00E5) in font cmr12!
+Missing character: There is no æ (U+00E6) in font cmr12!
+Missing character: There is no å (U+00E5) in font cmr12!
+Missing character: There is no æ (U+00E6) in font cmr12!
+]
+(./IntroAflevering.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 1846 strings out of 495118
+ 100000,89155 words of node,token memory allocated
+ 596 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 33 glue, 1 kern, 41 glue_spec, 1 write nodes
+   avail lists: 1:1,2:16,3:31,4:4,5:46,6:738,7:203,8:5,9:39,10:3,11:112
+ 5316 multiletter control sequences out of 65536+600000
+ 62 fonts using 1806883 bytes
+ 27i,8n,24p,501b,195s stack positions out of 5000i,500n,10000p,200000b,100000s
+<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on IntroAflevering.pdf (1 page, 82323 bytes).
+
+PDF statistics: 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
