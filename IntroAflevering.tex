@@ -14,5 +14,9 @@ Dette dokument omhandler boblesortering. Der beskrives algoritmen og præsentere
 \section{Introduktion}
 Boblesortering (\textsl{eng. bubble sort}) er en populær sorteringsalgoritme og er en af de simpleste algoritmer at forstå og implementere. Dog er den ikke en særlig effektiv sorteringsalgoritme\footnote{Mere om dette i ``Algoritmer og Dataskruturer 1''}; hverken for store eller små lister, og den anvendes sjældent i praksis. Boblesortering sorterer, som navnet antyder, elementerne i en liste ved at \textsl{boble} hvert element gennem listen til sin rette plads i listen.
 
+\section{Analyse af boblesortering}
+Antallet af sammenligninger, som boblesortering udfører på en tabel af længde $n$, er i værste fald
+\[\sum_{i=1}^{n-1}i=1+2+3+...+n-1=\frac{n(n-1)}{2}\]
+I bedste fald er antallet $n-1$. Se tabel ~\ref{Antal sammenligninger for boblesortering.}.
 
 \end{document}
