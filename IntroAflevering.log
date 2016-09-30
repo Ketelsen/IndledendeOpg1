@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 10:33
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 10:55
  restricted system commands enabled.
 **IntroAflevering.tex
 (./IntroAflevering.tex
@@ -225,6 +225,10 @@ Overfull \hbox (251.38884pt too wide) in paragraph at lines 10--10
  [][] 
  []
 
+
+LaTeX Warning: Reference `Antal sammenligninger for boblesortering.' on page 1 u
+ndefined on input line 20.
+
 [1
 
 {c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -234,29 +238,42 @@ Missing character: There is no å (U+00E5) in font cmr12!
 Missing character: There is no æ (U+00E6) in font cmr12!
 Missing character: There is no å (U+00E5) in font cmr12!
 Missing character: There is no æ (U+00E6) in font cmr12!
+Missing character: There is no ø (U+00F8) in font cmr12!
+Missing character: There is no å (U+00E5) in font cmr12!
+Missing character: There is no æ (U+00E6) in font cmr12!
+Missing character: There is no æ (U+00E6) in font cmr12!
 ]
-(./IntroAflevering.aux))
+(./IntroAflevering.aux)
+
+LaTeX Warning: There were undefined references.
+
+)
 
 Here is how much of LuaTeX's memory you used:
- 1846 strings out of 495118
+ 1849 strings out of 495118
  100000,89155 words of node,token memory allocated
- 596 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 33 glue, 1 kern, 41 glue_spec, 1 write nodes
-   avail lists: 1:1,2:16,3:31,4:4,5:46,6:738,7:203,8:5,9:39,10:3,11:112
- 5316 multiletter control sequences out of 65536+600000
- 62 fonts using 1806883 bytes
+ 729 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 52 glue, 1 kern, 41 glue_spec, 1 write nodes
+   avail lists: 1:1,2:16,3:72,4:4,5:59,6:935,7:276,8:35,9:58,10:3,11:135
+ 5318 multiletter control sequences out of 65536+600000
+ 63 fonts using 1835779 bytes
  27i,8n,24p,501b,195s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texliv
 e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on IntroAflevering.pdf (1 page, 82323 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2016/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb>
+Output written on IntroAflevering.pdf (1 page, 123103 bytes).
 
-PDF statistics: 40 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
