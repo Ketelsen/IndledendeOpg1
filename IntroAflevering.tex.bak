@@ -20,5 +20,15 @@ Antallet af sammenligninger, som boblesortering udfører på en tabel af længde
 \[\sum_{i=1}^{n-1}i=1+2+3+...+n-1=\frac{n(n-1)}{2}\]
 I bedste fald er antallet $n-1$. Se tabel ~\ref{Antal sammenligninger for boblesortering.}.
 
-\includegraphics[scale=0.5]{Nyhavn1}\caption{Nyhavn}
+\begin{figure}
+\centering
+\includegraphics[scale=0.5]{Nyhavn1}\caption{Illustration af boblesortering.}\label{fig:nyhavn}
+\end{figure}
+
+\begin{tabular}{|r|l|}
+\hline
+\textbf{Værst} & $n(n-1)/2$\\
+
+\end{tabular}
+
 \end{document}

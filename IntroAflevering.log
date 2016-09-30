@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 11:14
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/W32TeX)  (format=lualatex 2016.9.12)  30 SEP 2016 11:29
  restricted system commands enabled.
 **IntroAflevering.tex
 (./IntroAflevering.tex
@@ -345,6 +345,7 @@ Missing character: There is no ø (U+00F8) in font cmr12!
 Missing character: There is no å (U+00E5) in font cmr12!
 Missing character: There is no æ (U+00E6) in font cmr12!
 Missing character: There is no æ (U+00E6) in font cmr12!
+Missing character: There is no æ (U+00E6) in font cmbx12!
 ] [2<./Nyhavn1.png>]
 (./IntroAflevering.aux)
 
@@ -355,9 +356,9 @@ LaTeX Warning: There were undefined references.
 Here is how much of LuaTeX's memory you used:
  3203 strings out of 495118
  100000,128383 words of node,token memory allocated
- 736 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 53 glue, 1 kern, 41 glue_spec, 1 write nodes
-   avail lists: 1:1,2:16,3:72,4:4,5:61,6:979,7:290,8:35,9:69,10:3,11:142
+ 764 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 57 glue, 1 kern, 41 glue_spec, 1 write nodes
+   avail lists: 1:1,2:16,3:72,4:4,5:61,6:995,7:317,8:35,9:76,10:3,11:143
  6523 multiletter control sequences out of 65536+600000
  63 fonts using 1835779 bytes
  37i,8n,24p,501b,239s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -373,7 +374,7 @@ texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016
 fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2016/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb>
-Output written on IntroAflevering.pdf (2 pages, 4513716 bytes).
+Output written on IntroAflevering.pdf (2 pages, 4514157 bytes).
 
 PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
